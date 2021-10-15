@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-**DeekCS/DeekCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in **web development** and **computer science** I graduated from Al-Balqa' Applied University with a , **very good grade** in Computer Science , I love creating websites, learning new technologies, and sharing my knowledge with others. I have high energy to add, great value to offer, a teamwork spirit, and a passion for website development. I have leadership qualities, control qualities, and abilities for self-learning.
+<!--  **DeekCS/DeekCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
