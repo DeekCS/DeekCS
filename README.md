@@ -1,3 +1,5 @@
+![natterstefan](https://res.cloudinary.com/deek/image/upload/v1634327345/scrnli_10_15_2021_9-35-38_PM_hzdtn1.png)][1]
+
 ### Hi there 👋
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> <br>
