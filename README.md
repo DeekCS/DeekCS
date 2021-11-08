@@ -10,6 +10,10 @@ I am full stack dev looking to solve real world problems. I have a passion for l
 or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.
 <br>
 <hr>
+<a href="https://discord.gg/Abdulkareem Aldeek#5474">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
 <a href="https://twitter.com/deek_cs">
   <img align="left" alt="Abdulkareem Aldeek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -18,9 +22,9 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
   <img align="left" alt="Abdulkareem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
