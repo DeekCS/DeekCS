@@ -21,7 +21,7 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 <a href="https://www.linkedin.com/in/abdulkareem-aldeek/">
   <img align="left" alt="Abdulkareem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-
+<br>
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
