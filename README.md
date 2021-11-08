@@ -1,9 +1,7 @@
 ![natterstefan](https://res.cloudinary.com/deek/image/upload/v1636386308/image_processing20210620-11853-csd0d3_norbyq.png)
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 <br>
                 
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
