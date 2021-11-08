@@ -9,7 +9,6 @@
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> <br>
 or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.
 <br>
-<hr>
 <a href="https://discord.gg/Abdulkareem Aldeek#5474">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -25,6 +24,8 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
+<hr>
+
 
 **languages and tools:**  
 
