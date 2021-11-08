@@ -1,5 +1,6 @@
 ![natterstefan](https://res.cloudinary.com/deek/image/upload/v1636386308/image_processing20210620-11853-csd0d3_norbyq.png)
 
+![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
@@ -21,10 +22,6 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 <a href="https://www.linkedin.com/in/abdulkareem-aldeek/">
   <img align="left" alt="Abdulkareem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-<br>
-
-![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
-
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
