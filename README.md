@@ -25,6 +25,8 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 
+<br>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 <hr>
