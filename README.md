@@ -1,4 +1,4 @@
-![natterstefan](https://res.cloudinary.com/deek/image/upload/v1634327345/scrnli_10_15_2021_9-35-38_PM_hzdtn1.png)
+![natterstefan](https://res.cloudinary.com/deek/image/upload/v1636386308/image_processing20210620-11853-csd0d3_norbyq.png)
 
 ### Hi there 👋
 
