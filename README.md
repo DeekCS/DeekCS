@@ -24,7 +24,7 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 </a>
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 <br>
 <hr>
 
@@ -45,6 +45,8 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 <!--  **DeekCS/DeekCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeekCS&show_icons=true&theme=radical&hide=stars) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekCS&theme=radical&show_icons=true" alt="abdulkareem" /><br><br>
 
