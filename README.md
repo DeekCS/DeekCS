@@ -3,15 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br>
-                
+### **I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.**<br>
 
-
-### **I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> <br>
-or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also**.
-
-<br>
-<br>
 
 <a href="https://discord.gg/Abdulkareem Aldeek#5474">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
