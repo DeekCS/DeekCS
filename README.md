@@ -50,4 +50,5 @@ or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekCS&theme=radical&show_icons=true" alt="abdulkareem" /><br><br>
 
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
