@@ -1,9 +1,9 @@
 ![natterstefan](https://res.cloudinary.com/deek/image/upload/v1636386308/image_processing20210620-11853-csd0d3_norbyq.png)
 
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### **I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.**<br>
+**I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.**<br>
 
 
 <a href="https://discord.gg/Abdulkareem Aldeek#5474">
@@ -18,7 +18,7 @@
   <img align="left" alt="Abdulkareem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="300">
+<img align="right" alt="GIF" src="https://i.postimg.cc/D0WgkckT/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67.gif" width="400" height="300">
 <br>
 <br>
 <br>
