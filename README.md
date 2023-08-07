@@ -3,34 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-**I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.**<br>
-
-
-<a href="https://discord.gg/Abdulkareem Aldeek#5474">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-<a href="https://twitter.com/deek_cs">
-  <img align="left" alt="Abdulkareem Aldeek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/abdulkareem-aldeek/">
-  <img align="left" alt="Abdulkareem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
-
-<img align="right" alt="GIF" src="https://i.postimg.cc/D0WgkckT/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67.gif" width="400" height="300">
-<br>
-<br>
-<br>
-
-
+**I am full stack dev looking to solve real-world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout-out <a href="https://www.facebook.com/Abood.Aldeek.CS/">@Abdulkareem Aldeek</a> or give some ♥ on <a href="mailto:abdelkarim.aldeek@gmail.com">mail</a>. Feel free to reach out in case you want to just get in touch also.**<br>
 
 
 ### 🛠 &nbsp;Skills
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
